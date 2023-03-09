@@ -1,0 +1,5 @@
+backend/test.py
+backend/__pycache__
+flutterapp/.dart_tool
+flutterapp/.flutter-plugins-dependencies
+flutterapp/.flutter-plugins

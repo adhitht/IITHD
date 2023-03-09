@@ -1,0 +1,13 @@
+com.example.iithd2.app-jetified-window-java-1.0.0-beta04-0 /home/adhith/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.iithd2.app-core-1.6.0-1 /home/adhith/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.iithd2.app-jetified-annotation-experimental-1.1.0-2 /home/adhith/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.iithd2.app-jetified-window-1.0.0-beta04-3 /home/adhith/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.iithd2.app-main-4 /home/adhith/gitprojects/IITHD/flutterapp/android/app/src/main/res
+com.example.iithd2.app-release-5 /home/adhith/gitprojects/IITHD/flutterapp/android/app/src/release/res
+com.example.iithd2.app-pngs-6 /home/adhith/gitprojects/IITHD/flutterapp/build/app/generated/res/pngs/release
+com.example.iithd2.app-resValues-7 /home/adhith/gitprojects/IITHD/flutterapp/build/app/generated/res/resValues/release
+com.example.iithd2.app-rs-8 /home/adhith/gitprojects/IITHD/flutterapp/build/app/generated/res/rs/release
+com.example.iithd2.app-mergeReleaseResources-9 /home/adhith/gitprojects/IITHD/flutterapp/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.iithd2.app-mergeReleaseResources-10 /home/adhith/gitprojects/IITHD/flutterapp/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.iithd2.app-merged_res-11 /home/adhith/gitprojects/IITHD/flutterapp/build/app/intermediates/merged_res/release
+com.example.iithd2.app-packaged_res-12 /home/adhith/gitprojects/IITHD/flutterapp/build/url_launcher_android/intermediates/packaged_res/release
